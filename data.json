@@ -1,0 +1,44 @@
+[
+  {
+    "companyKey": "1",
+    "companyText": "Company A",
+    "regionKey": "east",
+    "regionText": "East"
+  },
+  {
+    "companyKey": "1",
+    "companyText": "Company A",
+    "regionKey": "west",
+    "regionText": "West"
+  },
+  {
+    "companyKey": "2",
+    "companyText": "Company B",
+    "regionKey": "east",
+    "regionText": "East"
+  },
+  {
+    "companyKey": "2",
+    "companyText": "Company B",
+    "regionKey": "north",
+    "regionText": "North"
+  },
+  {
+    "companyKey": "2",
+    "companyText": "Company B",
+    "regionKey": "south",
+    "regionText": "South"
+  },
+  {
+    "companyKey": "3",
+    "companyText": "Company C",
+    "regionKey": "east",
+    "regionText": "East"
+  },
+  {
+    "companyKey": "3",
+    "companyText": "Company C",
+    "regionKey": "south",
+    "regionText": "South"
+  }
+]
